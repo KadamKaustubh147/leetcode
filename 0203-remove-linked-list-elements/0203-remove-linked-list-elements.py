@@ -10,7 +10,8 @@ class Solution:
         dummy_head.next = head
 
         curr = dummy_head
-        while curr and curr.next:
+        # curr.next is important --> handles important case when the element to be deleted is last
+        while curr.next:
             if curr.next.val == val:
                 curr.next = curr.next.next
             else:
