@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/KadamKaustubh147/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
+| [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KadamKaustubh147/leetcode/tree/master/0020-valid-parentheses) |
+| [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
+## Greedy
+|  |
+| ------- |
+| [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 <!---LeetCode Topics End-->
