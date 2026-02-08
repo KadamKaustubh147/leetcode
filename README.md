@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KadamKaustubh147/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KadamKaustubh147/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
