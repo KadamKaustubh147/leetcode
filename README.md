@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/KadamKaustubh147/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KadamKaustubh147/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KadamKaustubh147/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KadamKaustubh147/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KadamKaustubh147/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
