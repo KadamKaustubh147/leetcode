@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/KadamKaustubh147/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KadamKaustubh147/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0226-invert-binary-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KadamKaustubh147/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0226-invert-binary-tree) |
@@ -132,6 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
