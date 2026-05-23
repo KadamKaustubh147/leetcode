@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/KadamKaustubh147/leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KadamKaustubh147/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [4303-count-k-th-roots-in-a-range](https://github.com/KadamKaustubh147/leetcode/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
 |  |
 | ------- |
