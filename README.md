@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KadamKaustubh147/leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KadamKaustubh147/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KadamKaustubh147/leetcode/tree/master/0020-valid-parentheses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 ## Greedy
 |  |
