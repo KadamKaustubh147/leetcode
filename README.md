@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KadamKaustubh147/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2195-time-needed-to-buy-tickets](https://github.com/KadamKaustubh147/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KadamKaustubh147/leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KadamKaustubh147/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
 | ------- |
@@ -180,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KadamKaustubh147/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
