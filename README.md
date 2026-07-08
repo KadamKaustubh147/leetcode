@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KadamKaustubh147/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KadamKaustubh147/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KadamKaustubh147/leetcode/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KadamKaustubh147/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
@@ -169,15 +171,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KadamKaustubh147/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KadamKaustubh147/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KadamKaustubh147/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -194,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
