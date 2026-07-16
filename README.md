@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/KadamKaustubh147/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
