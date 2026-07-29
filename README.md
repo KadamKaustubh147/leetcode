@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KadamKaustubh147/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KadamKaustubh147/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/KadamKaustubh147/leetcode/tree/master/0496-next-greater-element-i) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [2077-largest-number-after-mutating-substring](https://github.com/KadamKaustubh147/leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/KadamKaustubh147/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KadamKaustubh147/leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/KadamKaustubh147/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/KadamKaustubh147/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KadamKaustubh147/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0990-verifying-an-alien-dictionary](https://github.com/KadamKaustubh147/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [4318-valid-subarrays-with-matching-sum-digits-i](https://github.com/KadamKaustubh147/leetcode/tree/master/4318-valid-subarrays-with-matching-sum-digits-i) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KadamKaustubh147/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KadamKaustubh147/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KadamKaustubh147/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KadamKaustubh147/leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/KadamKaustubh147/leetcode/tree/master/0577-employee-bonus) |
 | [1827-invalid-tweets](https://github.com/KadamKaustubh147/leetcode/tree/master/1827-invalid-tweets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KadamKaustubh147/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
