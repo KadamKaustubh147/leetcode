@@ -19,6 +19,7 @@ class Solution:
             # now for other elements one half is sorted and the other half is unsorted
 
             # if sorted half --> go in the unsorted half
+            # don't compare mid with low or high compare it with start and end --> more logical and gives correct answer
             elif arr[0] <= arr[mid]:
                 lo = mid+1
             elif arr[n-1] >= arr[mid]:
